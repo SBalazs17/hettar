@@ -30,12 +30,12 @@ namespace Hetek_elemzések
         private void InitializeComponent()
         {
             this.Bt = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.Which = new System.Windows.Forms.Label();
             this.Male = new System.Windows.Forms.CheckBox();
             this.Female = new System.Windows.Forms.CheckBox();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
-            this.label2 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            this.Laza = new System.Windows.Forms.NumericUpDown();
+            this.Howold = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.Laza)).BeginInit();
             this.SuspendLayout();
             // 
             // Bt
@@ -47,14 +47,14 @@ namespace Hetek_elemzések
             this.Bt.Text = "Kapcsolatt";
             this.Bt.UseVisualStyleBackColor = true;
             // 
-            // label1
+            // Which
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(81, 65);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(115, 17);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Milyen a nemed?";
+            this.Which.AutoSize = true;
+            this.Which.Location = new System.Drawing.Point(81, 65);
+            this.Which.Name = "Which";
+            this.Which.Size = new System.Drawing.Size(115, 17);
+            this.Which.TabIndex = 1;
+            this.Which.Text = "Milyen a nemed?";
             // 
             // Male
             // 
@@ -76,36 +76,36 @@ namespace Hetek_elemzések
             this.Female.Text = "Nő";
             this.Female.UseVisualStyleBackColor = true;
             // 
-            // numericUpDown1
+            // Laza
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(84, 243);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(120, 22);
-            this.numericUpDown1.TabIndex = 4;
+            this.Laza.Location = new System.Drawing.Point(84, 226);
+            this.Laza.Name = "Laza";
+            this.Laza.Size = new System.Drawing.Size(120, 22);
+            this.Laza.TabIndex = 4;
             // 
-            // label2
+            // Howold
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(81, 182);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(46, 17);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "label2";
+            this.Howold.AutoSize = true;
+            this.Howold.Location = new System.Drawing.Point(81, 182);
+            this.Howold.Name = "Howold";
+            this.Howold.Size = new System.Drawing.Size(117, 17);
+            this.Howold.TabIndex = 5;
+            this.Howold.Text = "Hány éves vagy?";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.Howold);
+            this.Controls.Add(this.Laza);
             this.Controls.Add(this.Female);
             this.Controls.Add(this.Male);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.Which);
             this.Controls.Add(this.Bt);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Laza)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -114,11 +114,11 @@ namespace Hetek_elemzések
         #endregion
 
         private System.Windows.Forms.Button Bt;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label Which;
         private System.Windows.Forms.CheckBox Male;
         private System.Windows.Forms.CheckBox Female;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.NumericUpDown Laza;
+        private System.Windows.Forms.Label Howold;
     }
 }
 
