@@ -37,8 +37,8 @@ namespace Hetek_elemzések
             this.Howold = new System.Windows.Forms.Label();
             this.Name_t = new System.Windows.Forms.TextBox();
             this.Name_s = new System.Windows.Forms.Label();
-            this.lmbq_t = new System.Windows.Forms.ComboBox();
-            this.who = new System.Windows.Forms.Label();
+            this.who_t = new System.Windows.Forms.ComboBox();
+            this.who_s = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.Howold_t)).BeginInit();
             this.SuspendLayout();
             // 
@@ -112,30 +112,30 @@ namespace Hetek_elemzések
             this.Name_s.TabIndex = 7;
             this.Name_s.Text = "Neved";
             // 
-            // lmbq_t
+            // who_t
             // 
-            this.lmbq_t.FormattingEnabled = true;
-            this.lmbq_t.Location = new System.Drawing.Point(503, 114);
-            this.lmbq_t.Name = "lmbq_t";
-            this.lmbq_t.Size = new System.Drawing.Size(121, 24);
-            this.lmbq_t.TabIndex = 8;
+            this.who_t.FormattingEnabled = true;
+            this.who_t.Location = new System.Drawing.Point(503, 114);
+            this.who_t.Name = "who_t";
+            this.who_t.Size = new System.Drawing.Size(121, 24);
+            this.who_t.TabIndex = 8;
             // 
-            // who
+            // who_s
             // 
-            this.who.AutoSize = true;
-            this.who.Location = new System.Drawing.Point(500, 65);
-            this.who.Name = "who";
-            this.who.Size = new System.Drawing.Size(154, 17);
-            this.who.TabIndex = 9;
-            this.who.Text = "Milyen nembe tartozol?";
+            this.who_s.AutoSize = true;
+            this.who_s.Location = new System.Drawing.Point(500, 65);
+            this.who_s.Name = "who_s";
+            this.who_s.Size = new System.Drawing.Size(113, 17);
+            this.who_s.TabIndex = 9;
+            this.who_s.Text = "Hány szám van?";
             // 
             // Howold_s
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.who);
-            this.Controls.Add(this.lmbq_t);
+            this.Controls.Add(this.who_s);
+            this.Controls.Add(this.who_t);
             this.Controls.Add(this.Name_s);
             this.Controls.Add(this.Name_t);
             this.Controls.Add(this.Howold);
@@ -162,8 +162,8 @@ namespace Hetek_elemzések
         private System.Windows.Forms.Label Howold;
         private System.Windows.Forms.TextBox Name_t;
         private System.Windows.Forms.Label Name_s;
-        private System.Windows.Forms.ComboBox lmbq_t;
-        private System.Windows.Forms.Label who;
+        private System.Windows.Forms.ComboBox who_t;
+        private System.Windows.Forms.Label who_s;
     }
 }
 
