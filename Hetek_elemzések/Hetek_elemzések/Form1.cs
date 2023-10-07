@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Hetek_elemzések
 {
-    public partial class Form1 : Form
+    public partial class Howold_s : Form
     {
-        public Form1()
+        public Howold_s()
         {
             InitializeComponent();
         }
