@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F892D36-F533-455D-872B-327627D9F5E5}</ProjectGuid>
+    <ProjectGuid>{2317F278-6D94-4DEA-9EA5-B0D1CA771608}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>halott</RootNamespace>
     <AssemblyName>halott</AssemblyName>

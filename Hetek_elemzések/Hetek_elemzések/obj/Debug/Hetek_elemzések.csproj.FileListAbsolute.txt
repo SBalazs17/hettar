@@ -1,0 +1,10 @@
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\bin\Debug\Hetek_elemzések.exe.config
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\bin\Debug\Hetek_elemzések.exe
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\bin\Debug\Hetek_elemzések.pdb
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.Form1.resources
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.exe
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\hettar\Hetek_elemzések\Hetek_elemzések\obj\Debug\Hetek_elemzések.pdb
