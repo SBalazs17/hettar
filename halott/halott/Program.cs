@@ -11,7 +11,7 @@ namespace halott
     {
         struct alak
         {
-            public string nev;
+            public string fullnev;
             public int helyezes;
             public double tavolsag;
             public bool sikerult;
@@ -26,7 +26,7 @@ namespace halott
             for (int i = 0; i < fajbol.Length; i++)
             {
                 string[] darabol = fajbol[i].Split(';');
-                seged.nev = darabol[0];
+                seged.fullnev = darabol[0];
                 seged.helyezes = Convert.ToInt32(darabol[1]);
                 seged.tavolsag = Convert.ToDouble(darabol[2]);
                 seged.sikerult = Convert.ToBoolean(darabol[3]);
@@ -37,7 +37,7 @@ namespace halott
             int heleztk = Convert.ToInt32(Console.ReadLine());
             int k = maraton.Count;
             int m = 0;
-            while (maraton[m].helyezes != heleztk || maraton.Count < m)
+            while (maraton[m].helyezes != heleztk || maraton.Count > m)
             {
                 m++;
             }
@@ -55,7 +55,7 @@ namespace halott
             int helyet = 0;
             for (int i = 0; i < maraton.Count; i++)
             {
-                if (woolf == maraton[i].helyezes)
+                if (woolf < maraton[i].helyezes)
                 {
                     helyet = maraton[i].helyezes;
                 }

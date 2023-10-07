@@ -1,0 +1,2 @@
+Maritoth Lajos;4;2,5;true
+Bali Gabor;2;3,2;false
