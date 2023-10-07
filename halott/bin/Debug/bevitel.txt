@@ -1,0 +1,3 @@
+Sári Gabriella;5;4,7;true
+Bábor Béla;14;2,4;false
+Mikszáth Géza;3;7,4;false

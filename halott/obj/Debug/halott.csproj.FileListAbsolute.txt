@@ -1,0 +1,7 @@
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\obj\Debug\halott.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\obj\Debug\halott.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\bin\Debug\halott.exe.config
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\bin\Debug\halott.exe
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\bin\Debug\halott.pdb
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\obj\Debug\halott.exe
+C:\Users\Acer\OneDrive\Asztali gép\magán Balázs\kelemetlenség\halott\obj\Debug\halott.pdb
